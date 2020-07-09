@@ -2,7 +2,7 @@
 
 電話番号: 080-1234-0000
 
-link: https://yahoo.co.jp
+base https://yahoo.co.jp/
 
 住所: 東京都文京区本郷7-3-1
 
